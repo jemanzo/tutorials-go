@@ -1,0 +1,8 @@
+{
+  "server": {
+    "username": "myUser",
+    "password": "myPass",
+    "hostname": "myHost",
+    "port": 8080
+  }
+}
