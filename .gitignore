@@ -18,3 +18,4 @@ email/*.yml
 *.txt
 
 *.log
+*.pem
